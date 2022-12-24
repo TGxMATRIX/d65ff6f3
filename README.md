@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=
-𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝙋𝙀𝙏𝙀𝙍 𝙋𝘼𝙍𝙆𝙀𝙍+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗠𝗮𝘁𝗥𝗶𝘅𝗕𝗼𝘁𝘇!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=WELCOME+TO+PETER+PATKER+BOT+&weight=10000&size=1000&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://telegra.ph/file/79bd83439254ed9c4bbca.jpg" alt="MatRixBotz LOGO">
 </p>
